@@ -1,20 +1,20 @@
 # List of Free CDNs for open source projects
 
-[jsDelivr](https://www.jsdelivr.com)  (npm/github/wordpress)
+[jsDelivr](https://www.jsdelivr.com)  (npm,github,wordpress)
 
 [Skypack](https://skypack.dev) (npm)
 
 [UNPKG](https://unpkg.com/) (npm)
 
-[Statically](https://statically.io) (npm/github/wordpress/gitlab/bitbucket)
+[Statically](https://statically.io) (npm,github,wordpress,gitlab,bitbucket)
 
-[cdnjs](https://cdnjs.com) (npm/github)
+[cdnjs](https://cdnjs.com) (npm,github)
 
 [GitCDN](https://gitcdn.link) (gitub)
 
-[Raw Githack](https://raw.githack.com) (github/gitlab/bitbucket/sourcehut)
+[Raw Githack](https://raw.githack.com) (github,gitlab,bitbucket,sourcehut)
 
-[RawGit.org](https://rawgit.org) (github//gitlab/bitbucket)
+[RawGit.org](https://rawgit.org) (github,gitlab,bitbucket)
 
 [esm.sh](https://esm.sh) (npm)
 
