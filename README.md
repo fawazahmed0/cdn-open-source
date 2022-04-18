@@ -4,9 +4,9 @@
 
 [Skypack](https://skypack.dev) (npm)
 
-[Statically](https://statically.io) (npm/github/wordpress/gitlab/bitbucket)
-
 [UNPKG](https://unpkg.com/) (npm)
+
+[Statically](https://statically.io) (npm/github/wordpress/gitlab/bitbucket)
 
 [cdnjs](https://cdnjs.com) (npm/github)
 
@@ -20,8 +20,9 @@
 
 [esm.run](https://esm.run) (npm)
 
+[JSPM](https://jspm.org) (npm)
+
 [Combinatronics](https://www.combinatronics.com) (github)
 
-[JSPM](https://jspm.org) (npm)
 
 
