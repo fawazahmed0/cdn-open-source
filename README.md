@@ -6,7 +6,7 @@
 
 [UNPKG](https://unpkg.com/) (npm)
 
-[Statically](https://statically.io) (npm,github,wordpress,gitlab,bitbucket)
+[Statically](https://statically.io) (github,wordpress,gitlab,bitbucket)
 
 [cdnjs](https://cdnjs.com) (npm,github)
 
