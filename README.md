@@ -14,8 +14,6 @@
 
 [Raw Githack](https://raw.githack.com) (github,gitlab,bitbucket,sourcehut)
 
-[RawGit.org](https://rawgit.org) (github,gitlab,bitbucket) (currently down)
-
 [esm.sh](https://esm.sh) (npm)
 
 [esm.run](https://esm.run) (npm)
