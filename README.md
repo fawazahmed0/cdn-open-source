@@ -4,7 +4,7 @@
 
 [Statically](https://statically.io) (github,wordpress,gitlab,bitbucket)
 
-[GitCDN](https://gitcdn.link) (gitub)
+[GitCDN](https://gitcdn.link) (github)
 
 [Raw Githack](https://raw.githack.com) (github,gitlab,bitbucket,sourcehut)
 
