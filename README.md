@@ -2,19 +2,19 @@
 
 [jsDelivr](https://www.jsdelivr.com)  (npm,github,wordpress)
 
-[GitCDN](https://gitcdn.link) (gitub)
-
 [Statically](https://statically.io) (github,wordpress,gitlab,bitbucket)
+
+[GitCDN](https://gitcdn.link) (gitub)
 
 [Raw Githack](https://raw.githack.com) (github,gitlab,bitbucket,sourcehut)
 
 [Combinatronics](https://www.combinatronics.com) (github)
 
+[cdnjs](https://cdnjs.com) (npm,github)
+
 [Skypack](https://skypack.dev) (npm)
 
 [UNPKG](https://unpkg.com/) (npm)
-
-[cdnjs](https://cdnjs.com) (npm,github)
 
 [esm.sh](https://esm.sh) (npm)
 
