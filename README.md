@@ -4,9 +4,9 @@
 
 [GitCDN](https://gitcdn.link) (gitub)
 
-[Raw Githack](https://raw.githack.com) (github,gitlab,bitbucket,sourcehut)
-
 [Statically](https://statically.io) (github,wordpress,gitlab,bitbucket)
+
+[Raw Githack](https://raw.githack.com) (github,gitlab,bitbucket,sourcehut)
 
 [Combinatronics](https://www.combinatronics.com) (github)
 
